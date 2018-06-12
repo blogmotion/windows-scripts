@@ -1,4 +1,4 @@
-REM But     : Fusionne des CSV en un seul avec gestion des lignes de tête
+REM But     : Fusionne plusieurs fichiers CSV en un seul, en ne gardant qu'une seule des lignes d'en-têtes
 REM Auteur  : @xhark 
 REM URL     : http://blogmotion.fr/programmation/batch/fusionner-fichiers-csv-en-tetes-17328
 REM License : Creative Commons http://creativecommons.org/licenses/by-nd/4.0/deed.fr
